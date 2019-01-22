@@ -1,0 +1,12 @@
+[
+  {
+    "id": 0,
+    "name": "Stay in EU",
+    "picture": "images/noBrexit.jpeg"
+  },
+  {
+    "id": 1,
+    "name": "Leave EU",
+    "picture": "images/brexit.jpeg"
+  }
+]

@@ -8,14 +8,14 @@
       "type": "constructor"
     }
   ],
-  "bytecode": "0x6080604052348015600f57600080fd5b50336000806101000a81548173ffffffffffffffffffffffffffffffffffffffff021916908373ffffffffffffffffffffffffffffffffffffffff160217905550603580605d6000396000f3fe6080604052600080fdfea165627a7a7230582048b56ad86919a0beb1d622fb04368aa90f41bd2f0c9801451eecad74a4e00b630029",
-  "deployedBytecode": "0x6080604052600080fdfea165627a7a7230582048b56ad86919a0beb1d622fb04368aa90f41bd2f0c9801451eecad74a4e00b630029",
+  "bytecode": "0x6080604052348015600f57600080fd5b50336000806101000a81548173ffffffffffffffffffffffffffffffffffffffff021916908373ffffffffffffffffffffffffffffffffffffffff160217905550603580605d6000396000f3fe6080604052600080fdfea165627a7a72305820d8154216126f420b0c24a3d1c9b52e8fa40a3ca6cf3d934d74d7bb1c5db87efe0029",
+  "deployedBytecode": "0x6080604052600080fdfea165627a7a72305820d8154216126f420b0c24a3d1c9b52e8fa40a3ca6cf3d934d74d7bb1c5db87efe0029",
   "sourceMap": "25:180:2:-;;;72:60;8:9:-1;5:2;;;30:1;27;20:12;5:2;72:60:2;117:10;109:5;;:18;;;;;;;;;;;;;;;;;;25:180;;;;;;",
   "deployedSourceMap": "25:180:2:-;;;;;",
   "source": "pragma solidity ^0.5.0;\n\ncontract Ownable {\n  address payable owner;\n\n  constructor() Ownable() public {\n    owner = msg.sender;\n  }\n\n  modifier onlyOwner() {\n    require(msg.sender == owner);\n    _;\n  }\n}",
-  "sourcePath": "/home/enie/env/projects/8/contracts/Ownable.sol",
+  "sourcePath": "/Users/kenny/Documents/project/brexit/contracts/Ownable.sol",
   "ast": {
-    "absolutePath": "/home/enie/env/projects/8/contracts/Ownable.sol",
+    "absolutePath": "/Users/kenny/Documents/project/brexit/contracts/Ownable.sol",
     "exportedSymbols": {
       "Ownable": [
         158
@@ -329,7 +329,7 @@
     "src": "0:205:2"
   },
   "legacyAST": {
-    "absolutePath": "/home/enie/env/projects/8/contracts/Ownable.sol",
+    "absolutePath": "/Users/kenny/Documents/project/brexit/contracts/Ownable.sol",
     "exportedSymbols": {
       "Ownable": [
         158
@@ -648,7 +648,7 @@
   },
   "networks": {},
   "schemaVersion": "3.0.0",
-  "updatedAt": "2019-01-22T10:07:27.613Z",
+  "updatedAt": "2019-01-24T09:12:14.349Z",
   "devdoc": {
     "methods": {}
   },

@@ -20,7 +20,7 @@ Steps:
   3. Run Ganache CLI
   4. Run `truffle compile` and `truffle migrate`
   5. Run `npm run start`
-  6. Start your browser and authenticate metamask to your local ganache port 8545
+  6. Start your browser and authenticate metamask to your local ganache port 9545
   7. Import the seed phrase from Ganache CLI to MetaMask
   8. Start voting for Brexit Referendum
 

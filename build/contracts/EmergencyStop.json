@@ -47,14 +47,14 @@
       "type": "function"
     }
   ],
-  "bytecode": "0x608060405260008060146101000a81548160ff021916908315150217905550336000806101000a81548173ffffffffffffffffffffffffffffffffffffffff021916908373ffffffffffffffffffffffffffffffffffffffff1602179055506102098061006d6000396000f3fe60806040526004361061006d576000357c0100000000000000000000000000000000000000000000000000000000900463ffffffff16806312253a6c1461007257806341c0e1b514610089578063c4bc5da5146100a0578063d0e30db0146100b7578063db2e21bc146100c1575b600080fd5b34801561007e57600080fd5b506100876100d8565b005b34801561009557600080fd5b5061009e6100f5565b005b3480156100ac57600080fd5b506100b5610186565b005b6100bf6101a2565b005b3480156100cd57600080fd5b506100d66101c0565b005b6001600060146101000a81548160ff021916908315150217905550565b6000809054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff163373ffffffffffffffffffffffffffffffffffffffff161415610184576000809054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16ff5b565b60008060146101000a81548160ff021916908315150217905550565b600060149054906101000a900460ff161515156101be57600080fd5b565b600060149054906101000a900460ff1615156101db57600080fd5b56fea165627a7a72305820b8b7da3f5119adbc08d267b76184de253038aa60e8aaf3bf58461b50100f62720029",
-  "deployedBytecode": "0x60806040526004361061006d576000357c0100000000000000000000000000000000000000000000000000000000900463ffffffff16806312253a6c1461007257806341c0e1b514610089578063c4bc5da5146100a0578063d0e30db0146100b7578063db2e21bc146100c1575b600080fd5b34801561007e57600080fd5b506100876100d8565b005b34801561009557600080fd5b5061009e6100f5565b005b3480156100ac57600080fd5b506100b5610186565b005b6100bf6101a2565b005b3480156100cd57600080fd5b506100d66101c0565b005b6001600060146101000a81548160ff021916908315150217905550565b6000809054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff163373ffffffffffffffffffffffffffffffffffffffff161415610184576000809054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16ff5b565b60008060146101000a81548160ff021916908315150217905550565b600060149054906101000a900460ff161515156101be57600080fd5b565b600060149054906101000a900460ff1615156101db57600080fd5b56fea165627a7a72305820b8b7da3f5119adbc08d267b76184de253038aa60e8aaf3bf58461b50100f62720029",
+  "bytecode": "0x608060405260008060146101000a81548160ff021916908315150217905550336000806101000a81548173ffffffffffffffffffffffffffffffffffffffff021916908373ffffffffffffffffffffffffffffffffffffffff1602179055506102098061006d6000396000f3fe60806040526004361061006d576000357c0100000000000000000000000000000000000000000000000000000000900463ffffffff16806312253a6c1461007257806341c0e1b514610089578063c4bc5da5146100a0578063d0e30db0146100b7578063db2e21bc146100c1575b600080fd5b34801561007e57600080fd5b506100876100d8565b005b34801561009557600080fd5b5061009e6100f5565b005b3480156100ac57600080fd5b506100b5610186565b005b6100bf6101a2565b005b3480156100cd57600080fd5b506100d66101c0565b005b6001600060146101000a81548160ff021916908315150217905550565b6000809054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff163373ffffffffffffffffffffffffffffffffffffffff161415610184576000809054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16ff5b565b60008060146101000a81548160ff021916908315150217905550565b600060149054906101000a900460ff161515156101be57600080fd5b565b600060149054906101000a900460ff1615156101db57600080fd5b56fea165627a7a7230582063c19b6ccab27d5f0e2243d91b5bd40eb76ff3c447224b49052371194927b04c0029",
+  "deployedBytecode": "0x60806040526004361061006d576000357c0100000000000000000000000000000000000000000000000000000000900463ffffffff16806312253a6c1461007257806341c0e1b514610089578063c4bc5da5146100a0578063d0e30db0146100b7578063db2e21bc146100c1575b600080fd5b34801561007e57600080fd5b506100876100d8565b005b34801561009557600080fd5b5061009e6100f5565b005b3480156100ac57600080fd5b506100b5610186565b005b6100bf6101a2565b005b3480156100cd57600080fd5b506100d66101c0565b005b6001600060146101000a81548160ff021916908315150217905550565b6000809054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff163373ffffffffffffffffffffffffffffffffffffffff161415610184576000809054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16ff5b565b60008060146101000a81548160ff021916908315150217905550565b600060149054906101000a900460ff161515156101be57600080fd5b565b600060149054906101000a900460ff1615156101db57600080fd5b56fea165627a7a7230582063c19b6ccab27d5f0e2243d91b5bd40eb76ff3c447224b49052371194927b04c0029",
   "sourceMap": "50:814:0:-;;;108:5;91:22;;;;;;;;;;;;;;;;;;;;117:10:2;109:5;;:18;;;;;;;;;;;;;;;;;;50:814:0;;;;;;",
   "deployedSourceMap": "50:814:0:-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;380:79;;8:9:-1;5:2;;;30:1;27;20:12;5:2;380:79:0;;;;;;778:84;;8:9:-1;5:2;;;30:1;27;20:12;5:2;778:84:0;;;;;;465:82;;8:9:-1;5:2;;;30:1;27;20:12;5:2;465:82:0;;;;;;553:100;;;;;;659:109;;8:9:-1;5:2;;;30:1;27;20:12;5:2;659:109:0;;;;;;380:79;448:4;436:9;;:16;;;;;;;;;;;;;;;;;;380:79::o;778:84::-;829:5;;;;;;;;;;;815:19;;:10;:19;;;811:44;;;849:5;;;;;;;;;;;836:19;;;811:44;778:84::o;465:82::-;535:5;523:9;;:17;;;;;;;;;;;;;;;;;;465:82::o;553:100::-;167:9;;;;;;;;;;;166:10;158:19;;;;;;;;553:100::o;659:109::-;244:9;;;;;;;;;;;236:18;;;;;;;;659:109::o",
   "source": "pragma solidity ^0.5.0;\n\nimport \"./Ownable.sol\";\n\ncontract EmergencyStop is Ownable {\n\n    bool isStopped = false;\n\n    modifier stoppedInEmergency {\n        require(!isStopped);\n        _;\n    }\n\n    modifier onlyWhenStopped {\n        require(isStopped);\n        _;\n    }\n\n    modifier onlyAuthorized {\n        // Check for authorization of msg.sender here\n        _;\n    }\n\n    function stopContract() public onlyAuthorized {\n        isStopped = true;\n    }\n\n    function resumeContract() public onlyAuthorized {\n        isStopped = false;\n    }\n\n    function deposit() public payable stoppedInEmergency {\n        // Deposit logic happening here\n    }\n\n    function emergencyWithdraw() public view onlyWhenStopped {\n        // Emergency withdraw happening here\n    }\n    \n    function kill() public {\n        if (msg.sender == owner) selfdestruct(owner);\n    }\n}",
-  "sourcePath": "/home/enie/env/projects/8/contracts/EmergencyStop.sol",
+  "sourcePath": "/Users/kenny/Documents/project/brexit/contracts/EmergencyStop.sol",
   "ast": {
-    "absolutePath": "/home/enie/env/projects/8/contracts/EmergencyStop.sol",
+    "absolutePath": "/Users/kenny/Documents/project/brexit/contracts/EmergencyStop.sol",
     "exportedSymbols": {
       "EmergencyStop": [
         74
@@ -75,7 +75,7 @@
         "src": "0:23:0"
       },
       {
-        "absolutePath": "/home/enie/env/projects/8/contracts/Ownable.sol",
+        "absolutePath": "/Users/kenny/Documents/project/brexit/contracts/Ownable.sol",
         "file": "./Ownable.sol",
         "id": 2,
         "nodeType": "ImportDirective",
@@ -845,7 +845,7 @@
     "src": "0:864:0"
   },
   "legacyAST": {
-    "absolutePath": "/home/enie/env/projects/8/contracts/EmergencyStop.sol",
+    "absolutePath": "/Users/kenny/Documents/project/brexit/contracts/EmergencyStop.sol",
     "exportedSymbols": {
       "EmergencyStop": [
         74
@@ -866,7 +866,7 @@
         "src": "0:23:0"
       },
       {
-        "absolutePath": "/home/enie/env/projects/8/contracts/Ownable.sol",
+        "absolutePath": "/Users/kenny/Documents/project/brexit/contracts/Ownable.sol",
         "file": "./Ownable.sol",
         "id": 2,
         "nodeType": "ImportDirective",
@@ -1641,7 +1641,7 @@
   },
   "networks": {},
   "schemaVersion": "3.0.0",
-  "updatedAt": "2019-01-22T10:07:27.602Z",
+  "updatedAt": "2019-01-24T09:12:14.348Z",
   "devdoc": {
     "methods": {}
   },
